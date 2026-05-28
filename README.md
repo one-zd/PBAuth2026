@@ -105,8 +105,8 @@ If you find this code useful, please cite our paper:
 @article{wang2026PBAuth,
   title={Towards rigorous protection against unauthorized image synthesis on diffusion models},
   author={Zhangdong Wang, Tongqing Zhou, Tengfei Zheng, Jiaohua Qin and Zhiping Cai},
-  journal={submit to TCSVT},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
   year={2026},
-  publisher={IEEE}
+  doi={10.1109/TCSVT.2026.3694225}
 }
 ```
